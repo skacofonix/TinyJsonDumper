@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyJsonDumper", "TinyJsonDumper\TinyJsonDumper.csproj", "{9894C1F3-F2E7-4CA1-B0EA-5968F3ABF566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyJsonDumper.Demo", "TinyJsonDumper.Demo\TinyJsonDumper.Demo.csproj", "{69773B1D-3CDE-42ED-A7A3-DE3E2DAE03BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9894C1F3-F2E7-4CA1-B0EA-5968F3ABF566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9894C1F3-F2E7-4CA1-B0EA-5968F3ABF566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9894C1F3-F2E7-4CA1-B0EA-5968F3ABF566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9894C1F3-F2E7-4CA1-B0EA-5968F3ABF566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69773B1D-3CDE-42ED-A7A3-DE3E2DAE03BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69773B1D-3CDE-42ED-A7A3-DE3E2DAE03BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69773B1D-3CDE-42ED-A7A3-DE3E2DAE03BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69773B1D-3CDE-42ED-A7A3-DE3E2DAE03BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
